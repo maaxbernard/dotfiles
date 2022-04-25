@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maxim.bernard@kedgebs.com
+	name = Maxim Bernard
